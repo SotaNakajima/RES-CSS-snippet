@@ -3,9 +3,9 @@ MAKE SURE NIGHT MODE IS ON!
 
 
 #With snippet
-![Alt text](https://puu.sh/y4Eak/25110d1e87.png "Snippet - main")
-![Alt text](https://puu.sh/y4EjO/42535d1193.png "Snippet - thread")
+![Alt text](http://puu.sh/y4PC3/3b619b3cfe.png "Snippet - main")
+![Alt text](http://puu.sh/y4PEC/bedb1a048c.png "Snippet - thread")
 
 #Original
-![Alt text](https://puu.sh/y4E7K/2cf73a1129.png "Original Night mode - main")
-![Alt text](https://puu.sh/y4EkL/c6091c6347.png "Original Night mode - thread")
+![Alt text](http://puu.sh/y4PHh/8793af009a.png "Original Night mode - main")
+![Alt text](http://puu.sh/y4PG8/f87715da3d.png "Original Night mode - thread")
